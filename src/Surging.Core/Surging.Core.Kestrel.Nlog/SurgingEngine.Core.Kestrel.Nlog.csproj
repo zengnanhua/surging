@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Surging.Core.KestrelHttpServer\SurgingEngine.Core.KestrelHttpServer.csproj" />
+    <ProjectReference Include="..\Surging.Core.NLog\SurgingEngine.Core.Nlog.csproj" />
+  </ItemGroup>
+
+</Project>

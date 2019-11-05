@@ -23,10 +23,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Surging.Core.Caching\Surging.Core.Caching.csproj" />
-    <ProjectReference Include="..\Surging.Core.Common\Surging.Core.Common.csproj" />
-    <ProjectReference Include="..\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
-    <ProjectReference Include="..\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj" />
+    <ProjectReference Include="..\Surging.Core.Caching\SurgingEngine.Core.Caching.csproj" />
+    <ProjectReference Include="..\Surging.Core.Common\SurgingEngine.Core.Common.csproj" />
+    <ProjectReference Include="..\Surging.Core.CPlatform\SurgingEngine.Core.CPlatform.csproj" />
+    <ProjectReference Include="..\Surging.Core.ProxyGenerator\SurgingEngine.Core.ProxyGenerator.csproj" />
   </ItemGroup>
 
 </Project>

@@ -42,16 +42,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Surging.Core\Surging.Core.ApiGateWay\Surging.Core.ApiGateWay.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.Caching\Surging.Core.Caching.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.Codec.MessagePack\Surging.Core.Codec.MessagePack.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.Codec.ProtoBuffer\Surging.Core.Codec.ProtoBuffer.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.Common\Surging.Core.Common.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.Consul\Surging.Core.Consul.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.DotNetty\Surging.Core.DotNetty.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj" />
-    <ProjectReference Include="..\Surging.Core\Surging.Core.Zookeeper\Surging.Core.Zookeeper.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.ApiGateWay\SurgingEngine.Core.ApiGateWay.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.Caching\SurgingEngine.Core.Caching.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.Codec.MessagePack\SurgingEngine.Core.Codec.MessagePack.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.Codec.ProtoBuffer\SurgingEngine.Core.Codec.ProtoBuffer.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.Common\SurgingEngine.Core.Common.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.Consul\SurgingEngine.Core.Consul.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.CPlatform\SurgingEngine.Core.CPlatform.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.DotNetty\SurgingEngine.Core.DotNetty.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.ProxyGenerator\SurgingEngine.Core.ProxyGenerator.csproj" />
+    <ProjectReference Include="..\Surging.Core\Surging.Core.Zookeeper\SurgingEngine.Core.Zookeeper.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -6,17 +6,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.AutoMapper\Surging.Core.AutoMapper.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Caching\Surging.Core.Caching.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Codec.MessagePack\Surging.Core.Codec.MessagePack.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Common\Surging.Core.Common.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Consul\Surging.Core.Consul.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.DotNettyWSServer\Surging.Core.DotNettyWSServer.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.DotNetty\Surging.Core.DotNetty.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.EventBusRabbitMQ\Surging.Core.EventBusRabbitMQ.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Kestrel.Nlog\Surging.Core.Kestrel.Nlog.csproj" />
-    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Protocol.Http\Surging.Core.Protocol.Http.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.AutoMapper\SurgingEngine.Core.AutoMapper.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Caching\SurgingEngine.Core.Caching.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Codec.MessagePack\SurgingEngine.Core.Codec.MessagePack.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Common\SurgingEngine.Core.Common.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Consul\SurgingEngine.Core.Consul.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.CPlatform\SurgingEngine.Core.CPlatform.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.DotNettyWSServer\SurgingEngine.Core.DotNettyWSServer.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.DotNetty\SurgingEngine.Core.DotNetty.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.EventBusRabbitMQ\SurgingEngine.Core.EventBusRabbitMQ.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Kestrel.Nlog\SurgingEngine.Core.Kestrel.Nlog.csproj" />
+    <ProjectReference Include="..\..\Surging.Core\Surging.Core.Protocol.Http\SurgingEngine.Core.Protocol.Http.csproj" />
   </ItemGroup>
 
 </Project>

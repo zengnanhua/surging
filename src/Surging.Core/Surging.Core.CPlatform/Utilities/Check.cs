@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SurgingEngine.Core.CPlatform;
+using System;
 
 namespace Surging.Core.CPlatform.Utilities
 {

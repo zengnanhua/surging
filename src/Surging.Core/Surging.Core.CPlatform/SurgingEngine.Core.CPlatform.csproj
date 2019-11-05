@@ -33,15 +33,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Surging.Core.ServiceHosting\SurgingEngine.Core.ServiceHosting.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="CPlatformResource.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>CPlatformResource.resx</DependentUpon>
     </Compile>
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Surging.Core.ServiceHosting\Surging.Core.ServiceHosting.csproj" />
   </ItemGroup>
 
   <ItemGroup>

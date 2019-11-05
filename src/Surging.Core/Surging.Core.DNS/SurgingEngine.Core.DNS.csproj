@@ -11,9 +11,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\DotNetty.Codecs\DotNetty.Codecs.DNS\DotNetty.Codecs.DNS.csproj" />
-    <ProjectReference Include="..\Surging.Core.CPlatform\Surging.Core.CPlatform.csproj" />
-    <ProjectReference Include="..\Surging.Core.DotNetty\Surging.Core.DotNetty.csproj" />
-    <ProjectReference Include="..\Surging.Core.ProxyGenerator\Surging.Core.ProxyGenerator.csproj" />
+    <ProjectReference Include="..\Surging.Core.CPlatform\SurgingEngine.Core.CPlatform.csproj" />
+    <ProjectReference Include="..\Surging.Core.DotNetty\SurgingEngine.Core.DotNetty.csproj" />
+    <ProjectReference Include="..\Surging.Core.ProxyGenerator\SurgingEngine.Core.ProxyGenerator.csproj" />
   </ItemGroup>
 
 </Project>
