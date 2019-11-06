@@ -97,7 +97,10 @@ namespace Surging.Core.Caching
                         builder.Register(p => Activator.CreateInstance(t)).Named(attribute.Name.ToString(), typeof(ICacheProvider)).SingleInstance();
                 }
             }
-            catch { }
+            catch(Exception ex) 
+            {
+
+            }
         }
 
         private static object GetTypedPropertyValue(Property obj)
